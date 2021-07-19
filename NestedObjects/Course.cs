@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NestedObjects
 {
-    class Course
+    public class Course
     {
         /// <summary>
         /// Full title of the course
